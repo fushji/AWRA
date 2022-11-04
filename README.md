@@ -1,4 +1,4 @@
-# Getting Started with ARWA - Another React Weather App
+# Getting Started with AWRA - Another Weather React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and use [OpenWeather](https://openweathermap.org/) API for current weather data.
 Application is code for learning purpose and it is inspired to the [Tyler Potts](https://github.com/TylerPottsDev/weather-react), video tutorial: (https://www.youtube.com/watch?v=GuA0_Z1llYU&t=1195s)
